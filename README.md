@@ -47,4 +47,4 @@ Cada exercício está em sua própria pasta, com seu respectivo código fonte. I
 
 **Beatriz Santina**  
 Estagiária em Desenvolvimento de Software na Compass UOL  
-[LinkedIn](https://www.linkedin.com/in/beatriz-santina/)
+[LinkedIn] (https://www.linkedin.com/in/beatriz-santina-a6972b1a0/)
